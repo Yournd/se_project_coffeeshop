@@ -1,4 +1,6 @@
 .form__fieldset {
+  display: flex;
+  flex-direction: column;
   max-width: 385px;
   border: none;
   padding: 0;
@@ -61,4 +63,11 @@
   width: 20px;
   height: 20px;
   margin-right: 12px;
+}
+
+.form__checkbox-wrapper {
+  display: flex;
+  order: 1;
+  align-items: center;
+  justify-content: center;
 }
