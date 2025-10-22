@@ -19,4 +19,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Project Link
 
-You can check out the project with this [link](). Please note, this project is only the landing page, so there is no backend or JavaScript included!
+You can check out the project with this [link](https://yournd.github.io/se_project_coffeeshop/). Please note, this project is only the landing page, so there is no backend or JavaScript included!
